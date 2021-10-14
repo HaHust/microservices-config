@@ -1,2 +1,6 @@
 service-one:
   msg: hello, this is config file in cloud git
+  usernameDB: root
+  passwordDB: Haqh1234
+  url: jdbc:mysql://localhost:3306/test
+  driverDB: com.mysql.cj.jdbc.Driver
