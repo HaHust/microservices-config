@@ -1,0 +1,2 @@
+service-one:
+  msg: hello, this is config file in cloud git
